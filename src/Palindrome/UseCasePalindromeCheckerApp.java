@@ -2,6 +2,6 @@ package Palindrome;
 
 public class UseCasePalindromeCheckerApp {
    public  static void main(String[] args) {
-       System.out.println("Welcome Palindrome");
+       System.out.println("UC1 code");
     }
 }
